@@ -5,7 +5,7 @@ I like making practical tools people actually use, from healthcare monitoring to
 
 - 🔭 Currently building **CVere**, an evidence-verifying multi-agent hiring system (Final Year Project)
 - 🌱 Building **Humraah**, a higher-education guidance platform for girls in Pakistan
-- 🫀 Working on **QALB**, an IoMT remote cardiac monitoring system
+- ❤️ Working on **QALB**, an IoMT remote cardiac monitoring system
 - 🛡️ Previously: Frontend Developer at **CodexCape** · Cybersecurity intern at **NUST Information Assurance Lab** (WAF configuration, threat detection)
 - 📍 Rawalpindi / Islamabad, Pakistan
 
