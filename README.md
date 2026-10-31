@@ -33,9 +33,9 @@ I like making practical tools people actually use, from healthcare monitoring to
 ## 📊 GitHub stats
 
 <p align="left">
-  <img height="170" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img width="32%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img width="32%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img width="32%" src="./profile-summary-card-output/github_dark/3-stats.svg" />
 </p>
 
 ## 📫 Reach me
