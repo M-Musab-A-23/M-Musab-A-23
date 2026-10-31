@@ -25,17 +25,19 @@ I like making practical tools people actually use, from healthcare monitoring to
 ## 🛠️ Tech stack
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nextjs,tailwind,html,css&perline=10" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,supabase,postgres,pytorch,sklearn,git,figma,vercel&perline=10" />
+</p>
+
+## 📊 GitHub stats
+
+<p align="left">
   <img height="170" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
   <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
   <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" />
 </p>
 
-## 📫 Reach me
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Musab-A-23&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=M-Musab-A-23&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-</p>
 ## 📫 Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadmusababdullah/)
