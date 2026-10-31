@@ -1,7 +1,7 @@
 # Hi, I'm Musab 👋
 
-Software Engineering student at **NUST SEECS** (Class of 2027), building toward **AI engineering and digital health**.
-I like making practical tools people actually use — from healthcare monitoring to education platforms for students in Pakistan.
+Software Engineering student at **NUST SEECS** (Class of 2027), building myself towards **AI Engineering**.
+I like making practical tools people actually use, from healthcare monitoring to education platforms for students in Pakistan.
 
 - 🔭 Currently building **CVere**, an evidence-verifying multi-agent hiring system (Final Year Project)
 - 🌱 Building **Humraah**, a higher-education guidance platform for girls in Pakistan
@@ -25,12 +25,12 @@ I like making practical tools people actually use — from healthcare monitoring
 ## 🛠️ Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nextjs,tailwind,html,css&perline=10" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,supabase,postgres,pytorch,sklearn,git,figma,vercel&perline=10" />
+  <img height="170" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" />
 </p>
 
-## 📊 GitHub stats
+## 📫 Reach me
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Musab-A-23&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
