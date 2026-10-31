@@ -24,12 +24,18 @@ I like making practical tools people actually use — from healthcare monitoring
 
 ## 🛠️ Tech stack
 
-**Languages:** Python · JavaScript / TypeScript · Java · C / C++ · SQL
-**Frontend:** React · Next.js · Tailwind CSS · HTML / CSS
-**Backend:** FastAPI · Flask · Node.js · Supabase / PostgreSQL
-**AI / ML:** PyTorch · PyTorch Geometric · scikit-learn · LLM APIs & multi-agent systems
-**Other:** Git & GitHub · MQTT / IoT · Figma · Vercel
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nextjs,tailwind,html,css&perline=10" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,supabase,postgres,pytorch,sklearn,git,figma,vercel&perline=10" />
+</p>
 
+## 📊 GitHub stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Musab-A-23&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=M-Musab-A-23&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+</p>
 ## 📫 Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadmusababdullah/)
